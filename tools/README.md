@@ -1,9 +1,9 @@
-Simulation and analysis tools used
+Simulation and analysis tools used include RMSD, RMSF, PCA and hydrogen bond analysis
 
 
 ## Tools
 - Tools under development at : https://github.com/galaxycomputationalchemistry/galaxy-tools-compchem
-- Tools used include RMSD, RMSF, PCA and hydrogen bond analysis
+
 
 ## Galaxy Servers hosting tools
 - BRIDGE ZA: https://galaxy-compchem.ilifu.ac.za
